@@ -1,0 +1,12 @@
+.header-container {
+  background-color: #f1f5f9;
+  height: 12vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.headerImageEl {
+  height: 8vh;
+  margin-left: 100px;
+}
